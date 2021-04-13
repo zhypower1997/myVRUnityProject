@@ -1,0 +1,4 @@
+repository "myVrProject@ssl://zhypower1997@sh01-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/854091383" 
+     
